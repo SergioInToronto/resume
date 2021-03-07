@@ -1,6 +1,8 @@
 ## Rights
 
-Feel free to use this as a template
+Feel free to use this as a template.
+
+Copied from https://github.com/cgibson/Resume
 
 ## Usage
 
