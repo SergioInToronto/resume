@@ -16,3 +16,7 @@ Watch for changes:
 ```
 ls resume.tex resume.cls | entr sh -c 'pdflatex resume.tex'
 ```
+
+### Advice
+
+Use HTML + css instead. It's less annoying than latex
