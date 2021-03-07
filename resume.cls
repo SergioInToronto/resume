@@ -777,7 +777,7 @@
 
 \@secpenalty = -500
 \topmargin 0pt
-\headheight 0pt
+\headheight 20pt
 \headsep 0pt
 \textheight 9in
 \parindent 0pt
@@ -816,10 +816,10 @@
 %           and res.cls class by Michael DeCorte.
 %           I have merged these for educational purposes only.
 
-\oddsidemargin -12mm
-\evensidemargin -12mm
+\oddsidemargin -8mm
+\evensidemargin -8mm
 %\textwidth=150mm
-\textwidth=154mm
+\textwidth=141mm
 \itemsep=0cm
 \parsep=0cm
 \topmargin -20mm
