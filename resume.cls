@@ -823,8 +823,8 @@
 \itemsep=0cm
 \parsep=0cm
 \topmargin -20mm
-% \textheight 265mm
-% \textheight 300mm
+\textheight 265mm
+% \textheight 274.5mm
 
 \newenvironment{list1}{
   \begin{list}{\ding{113}}{%
