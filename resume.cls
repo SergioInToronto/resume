@@ -838,6 +838,7 @@
       \setlength{\itemsep}{0in}
       \setlength{\parsep}{0in} \setlength{\parskip}{0in}
       \setlength{\topsep}{0in} \setlength{\partopsep}{0in}
+      % \setlength{\topsep}{-4mm}
       \setlength{\leftmargin}{0.25in}}}{\end{list}}
 
 %\newcommand{\mysidestyle}{\footnotesize\sc}
@@ -851,4 +852,3 @@
 \newcommand{\sectionline}{\vspace*{-2mm}\par\hspace*{-36mm}\color{ColorOne}\hrulefill\\\color{black}\vspace*{-8mm}}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
